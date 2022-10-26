@@ -18,8 +18,12 @@
     /* color: #fff; */
   }
 
-  h1{
+  h1,
+  h2 {
     color:rgb(173, 29, 230);
+    /* Color for headings */
+    font-family: "Arial","Calibri",sans-serif;
+    /* font for headings */
   }
   
   main {
@@ -28,4 +32,9 @@
     /* Forces elements to the next line if they don't fit */
     flex-wrap: wrap;
     margin-top: 2%;
+  }
+
+  footer h2 {
+    color: rgb(173, 29, 230);
+    text-align: center;
   }
