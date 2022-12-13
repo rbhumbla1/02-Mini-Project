@@ -1,4 +1,4 @@
-# 02-Mini-Project
+# CSS-Cheatsheet
 Repostitory containing code files for Module 2 Mini Project - CSS Snippet Cheatsheet
 ## Description
 This project build a webpage that will hold a collection of CSS snippets.
@@ -14,7 +14,7 @@ The completed application should meet the following criteria:
 
 ## Usage
 
-Access the page by the URL: https://rbhumbla1.github.io/02-Mini-Project/
+Access the page by the URL: https://rbhumbla1.github.io/CSS-Cheatsheet/
 
 ## Credits
 
